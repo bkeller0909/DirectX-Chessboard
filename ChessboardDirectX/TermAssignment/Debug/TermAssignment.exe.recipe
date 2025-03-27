@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\Debug\TermAssignment.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\Debug\LitColourPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\Debug\LitColourVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\Debug\SkyBoxPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\Debug\SkyBoxVS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

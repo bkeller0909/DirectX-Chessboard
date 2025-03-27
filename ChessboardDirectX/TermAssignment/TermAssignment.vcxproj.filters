@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <FxCompile Include="LitColourVS.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="LitColourPS.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="SkyBoxVS.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="SkyBoxPS.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="IndexedPrimitive.cpp" />
+    <ClCompile Include="myProject.cpp" />
+    <ClCompile Include="LitColourShader.cpp" />
+    <ClCompile Include="Pawn.cpp">
+      <Filter>Chess Pieces</Filter>
+    </ClCompile>
+    <ClCompile Include="Bishop.cpp">
+      <Filter>Chess Pieces</Filter>
+    </ClCompile>
+    <ClCompile Include="Chessboard.cpp">
+      <Filter>Chess Pieces</Filter>
+    </ClCompile>
+    <ClCompile Include="DirectX.cpp">
+      <Filter>Misc.</Filter>
+    </ClCompile>
+    <ClCompile Include="Font.cpp">
+      <Filter>Misc.</Filter>
+    </ClCompile>
+    <ClCompile Include="Models.cpp">
+      <Filter>Misc.</Filter>
+    </ClCompile>
+    <ClCompile Include="SkyBox.cpp">
+      <Filter>Misc.</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>Misc.</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureType.cpp">
+      <Filter>Misc.</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>Misc.</Filter>
+    </ClCompile>
+    <ClCompile Include="Rook.cpp">
+      <Filter>Chess Pieces</Filter>
+    </ClCompile>
+    <ClCompile Include="King.cpp">
+      <Filter>Chess Pieces</Filter>
+    </ClCompile>
+    <ClCompile Include="Queen.cpp">
+      <Filter>Chess Pieces</Filter>
+    </ClCompile>
+    <ClCompile Include="Knight.cpp">
+      <Filter>Chess Pieces</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="IndexedPrimitive.h" />
+    <ClInclude Include="MyProject.h" />
+    <ClInclude Include="LitColourShader.h" />
+    <ClInclude Include="Pawn.h">
+      <Filter>Chess Pieces</Filter>
+    </ClInclude>
+    <ClInclude Include="Bishop.h">
+      <Filter>Chess Pieces</Filter>
+    </ClInclude>
+    <ClInclude Include="Chessboard.h">
+      <Filter>Chess Pieces</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectX.h">
+      <Filter>Misc.</Filter>
+    </ClInclude>
+    <ClInclude Include="Font.h">
+      <Filter>Misc.</Filter>
+    </ClInclude>
+    <ClInclude Include="Models.h">
+      <Filter>Misc.</Filter>
+    </ClInclude>
+    <ClInclude Include="SkyBox.h">
+      <Filter>Misc.</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>Misc.</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureType.h">
+      <Filter>Misc.</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>Misc.</Filter>
+    </ClInclude>
+    <ClInclude Include="Rook.h">
+      <Filter>Chess Pieces</Filter>
+    </ClInclude>
+    <ClInclude Include="King.h">
+      <Filter>Chess Pieces</Filter>
+    </ClInclude>
+    <ClInclude Include="Queen.h">
+      <Filter>Chess Pieces</Filter>
+    </ClInclude>
+    <ClInclude Include="Knight.h">
+      <Filter>Chess Pieces</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{ffb2a3bf-7184-4176-841f-ae9fd202509a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Chess Pieces">
+      <UniqueIdentifier>{c9ef2a47-03f0-462b-b512-567623324aa9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Misc.">
+      <UniqueIdentifier>{c79d4531-9f4b-4aa0-b334-af3136ac955a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="VertexPositionNormalTexture.hlsli">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="SkyBox.hlsli">
+      <Filter>Shaders</Filter>
+    </None>
+  </ItemGroup>
+</Project>

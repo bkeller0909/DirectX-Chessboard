@@ -1,0 +1,202 @@
+﻿  compilation object save succeeded; see C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\Debug\LitColourPS.cso
+  compilation object save succeeded; see C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\Debug\LitColourVS.cso
+  compilation object save succeeded; see C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\Debug\SkyBoxPS.cso
+  compilation object save succeeded; see C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\Debug\SkyBoxVS.cso
+  Bishop.cpp
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Bishop.cpp(36,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Bishop.cpp(37,43): warning C4305: 'argument': truncation from 'double' to 'float'
+  Chessboard.cpp
+  DirectX.cpp
+  Font.cpp
+  IndexedPrimitive.cpp
+  King.cpp
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\King.cpp(38,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\King.cpp(38,82): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\King.cpp(39,43): warning C4305: 'argument': truncation from 'double' to 'float'
+  Knight.cpp
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Knight.cpp(37,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Knight.cpp(37,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Knight.cpp(48,85): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Knight.cpp(49,86): warning C4305: 'argument': truncation from 'double' to 'float'
+  Models.cpp
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(53,28): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(53,28): warning C4267:         with
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(53,28): warning C4267:         [
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(53,28): warning C4267:             _Ty=uint16_t
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(53,28): warning C4267:         ]
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(54,28): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(54,28): warning C4267:         with
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(54,28): warning C4267:         [
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(54,28): warning C4267:             _Ty=uint16_t
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(54,28): warning C4267:         ]
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(55,28): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(55,28): warning C4267:         with
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(55,28): warning C4267:         [
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(55,28): warning C4267:             _Ty=uint16_t
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(55,28): warning C4267:         ]
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(57,28): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(57,28): warning C4267:         with
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(57,28): warning C4267:         [
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(57,28): warning C4267:             _Ty=uint16_t
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(57,28): warning C4267:         ]
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(58,28): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(58,28): warning C4267:         with
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(58,28): warning C4267:         [
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(58,28): warning C4267:             _Ty=uint16_t
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(58,28): warning C4267:         ]
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(59,28): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(59,28): warning C4267:         with
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(59,28): warning C4267:         [
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(59,28): warning C4267:             _Ty=uint16_t
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(59,28): warning C4267:         ]
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(120,34): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(120,34): warning C4267:         with
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(120,34): warning C4267:         [
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(120,34): warning C4267:             _Ty=uint16_t
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(120,34): warning C4267:         ]
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(121,38): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(121,38): warning C4267:         with
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(121,38): warning C4267:         [
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(121,38): warning C4267:             _Ty=uint16_t
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(121,38): warning C4267:         ]
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(122,34): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(122,34): warning C4267:         with
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(122,34): warning C4267:         [
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(122,34): warning C4267:             _Ty=uint16_t
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(122,34): warning C4267:         ]
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(124,34): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(124,34): warning C4267:         with
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(124,34): warning C4267:         [
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(124,34): warning C4267:             _Ty=uint16_t
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(124,34): warning C4267:         ]
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(125,38): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(125,38): warning C4267:         with
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(125,38): warning C4267:         [
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(125,38): warning C4267:             _Ty=uint16_t
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(125,38): warning C4267:         ]
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(126,38): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(126,38): warning C4267:         with
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(126,38): warning C4267:         [
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(126,38): warning C4267:             _Ty=uint16_t
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(126,38): warning C4267:         ]
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(170,22): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(170,22): warning C4267:         with
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(170,22): warning C4267:         [
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(170,22): warning C4267:             _Ty=uint16_t
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(170,22): warning C4267:         ]
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(171,28): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(171,28): warning C4267:         with
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(171,28): warning C4267:         [
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(171,28): warning C4267:             _Ty=uint16_t
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(171,28): warning C4267:         ]
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(172,28): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(172,28): warning C4267:         with
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(172,28): warning C4267:         [
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(172,28): warning C4267:             _Ty=uint16_t
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(172,28): warning C4267:         ]
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(226,24): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(226,24): warning C4267:         with
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(226,24): warning C4267:         [
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(226,24): warning C4267:             _Ty=uint16_t
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(226,24): warning C4267:         ]
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(227,34): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(227,34): warning C4267:         with
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(227,34): warning C4267:         [
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(227,34): warning C4267:             _Ty=uint16_t
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(227,34): warning C4267:         ]
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(228,28): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(228,28): warning C4267:         with
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(228,28): warning C4267:         [
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(228,28): warning C4267:             _Ty=uint16_t
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(228,28): warning C4267:         ]
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(230,28): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(230,28): warning C4267:         with
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(230,28): warning C4267:         [
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(230,28): warning C4267:             _Ty=uint16_t
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(230,28): warning C4267:         ]
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(231,34): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(231,34): warning C4267:         with
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(231,34): warning C4267:         [
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(231,34): warning C4267:             _Ty=uint16_t
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(231,34): warning C4267:         ]
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(232,34): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(232,34): warning C4267:         with
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(232,34): warning C4267:         [
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(232,34): warning C4267:             _Ty=uint16_t
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(232,34): warning C4267:         ]
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(276,24): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(276,24): warning C4267:         with
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(276,24): warning C4267:         [
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(276,24): warning C4267:             _Ty=uint16_t
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(276,24): warning C4267:         ]
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(277,34): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(277,34): warning C4267:         with
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(277,34): warning C4267:         [
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(277,34): warning C4267:             _Ty=uint16_t
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(277,34): warning C4267:         ]
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(278,34): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(278,34): warning C4267:         with
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(278,34): warning C4267:         [
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(278,34): warning C4267:             _Ty=uint16_t
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(278,34): warning C4267:         ]
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(333,34): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(333,34): warning C4267:         with
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(333,34): warning C4267:         [
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(333,34): warning C4267:             _Ty=uint16_t
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(333,34): warning C4267:         ]
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(334,34): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(334,34): warning C4267:         with
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(334,34): warning C4267:         [
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(334,34): warning C4267:             _Ty=uint16_t
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(334,34): warning C4267:         ]
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(335,38): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(335,38): warning C4267:         with
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(335,38): warning C4267:         [
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(335,38): warning C4267:             _Ty=uint16_t
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(335,38): warning C4267:         ]
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(337,34): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(337,34): warning C4267:         with
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(337,34): warning C4267:         [
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(337,34): warning C4267:             _Ty=uint16_t
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(337,34): warning C4267:         ]
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(338,38): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(338,38): warning C4267:         with
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(338,38): warning C4267:         [
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(338,38): warning C4267:             _Ty=uint16_t
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(338,38): warning C4267:         ]
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(339,38): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(339,38): warning C4267:         with
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(339,38): warning C4267:         [
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(339,38): warning C4267:             _Ty=uint16_t
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Models.cpp(339,38): warning C4267:         ]
+  myProject.cpp
+  Pawn.cpp
+  Queen.cpp
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Queen.cpp(38,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Queen.cpp(39,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Queen.cpp(40,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Queen.cpp(40,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Queen.cpp(45,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Queen.cpp(52,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Queen.cpp(53,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Queen.cpp(58,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Queen.cpp(58,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Queen.cpp(58,38): warning C4305: 'argument': truncation from 'double' to 'float'
+  Rook.cpp
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Rook.cpp(28,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Rook.cpp(29,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Rook.cpp(29,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Rook.cpp(46,86): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Rook.cpp(47,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Rook.cpp(47,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Rook.cpp(51,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Rook.cpp(52,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Rook.cpp(53,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\TermAssignment\Rook.cpp(54,37): warning C4305: 'argument': truncation from 'double' to 'float'
+  SkyBox.cpp
+  Sprite.cpp
+  TextureType.cpp
+  Timer.cpp
+  LitColourShader.cpp
+  Generating Code...
+  TermAssignment.vcxproj -> C:\Users\bkell\Desktop\Brandon Keller - Term Assignment 2\Debug\TermAssignment.exe

@@ -1,0 +1,4 @@
+C:\Users\John\Documents\3D Graphics\TermAssignment2\StartingPoint\Debug\LitColourPS.cso
+C:\Users\John\Documents\3D Graphics\TermAssignment2\StartingPoint\Debug\LitColourVS.cso
+C:\Users\John\Documents\3D Graphics\TermAssignment2\StartingPoint\Debug\SkyBoxPS.cso
+C:\Users\John\Documents\3D Graphics\TermAssignment2\StartingPoint\Debug\SkyBoxVS.cso

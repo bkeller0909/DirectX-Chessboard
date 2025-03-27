@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="IndexedPrimitive.cpp" />
+    <ClCompile Include="myProject.cpp" />
+    <ClCompile Include="LitColourShader.cpp" />
+    <ClCompile Include="Models.cpp" />
+    <ClCompile Include="SampleObject.cpp" />
+    <ClCompile Include="DirectX.cpp">
+      <Filter>HelperClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="Font.cpp">
+      <Filter>HelperClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>HelperClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureType.cpp">
+      <Filter>HelperClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>HelperClasses</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="IndexedPrimitive.h" />
+    <ClInclude Include="MyProject.h" />
+    <ClInclude Include="LitColourShader.h" />
+    <ClInclude Include="Models.h" />
+    <ClInclude Include="SampleObject.h" />
+    <ClInclude Include="DirectX.h">
+      <Filter>HelperClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="Font.h">
+      <Filter>HelperClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>HelperClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureType.h">
+      <Filter>HelperClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>HelperClasses</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{424c9132-c210-4cdd-9c31-538c89e433b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="HelperClasses">
+      <UniqueIdentifier>{01ce62bf-c211-41f9-b5e0-3c617578aad9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="LitColourPS.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="LitColourVS.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="VertexPositionNormalTexture.hlsli">
+      <Filter>Shaders</Filter>
+    </None>
+  </ItemGroup>
+</Project>
